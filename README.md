@@ -7,8 +7,6 @@ This release (and repository) only contains the main keyboard layout of Ultimate
 
 The additional customized Compose Key sequences (Multi_key) have not been included in this release/repository, since these may change more frequently over time.
 
-As such, I only consider the main layout of UltimateKEYS as the 'core element'.
-
 ## Keyboard Layout Image
 
 ![UltimateKEYS - Keyboard Layout Image](images/UltimateKEYS%20-%20Keyboard%20Layout%20Image.png)
