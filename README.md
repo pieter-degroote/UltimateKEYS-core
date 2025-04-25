@@ -16,6 +16,13 @@ As such, I only consider the main layout of UltimateKEYS as the 'core element'.
 =&gt; CP key (blue) : &nbsp;Compose Key (Multi_key), in combination with AltGr (Right Alt).  
 =&gt; Note that the ISO key (next to Left Shift) is not present on standard ANSI keyboards.
 
+## Important Notice - Security
+
+**=&gt; Win/Linux&nbsp;: &nbsp;Only use "BASIC LATIN" characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
+Otherwise, it might be impossible to type any Unicode character higher than "Basic Latin" at the login screen/prompt (due to a different keyboard configuration)&nbsp;!&emsp;**=&gt;&emsp;ACCOUNT LOCKOUT**
+
+**=&gt; Win/Linux&nbsp;: &nbsp;ALWAYS make your system passwords VISIBLE during modification&nbsp;!**
+
 ## Website and Documentation
 
 Website&nbsp;: &nbsp;https://pieter-degroote.github.io/
