@@ -5,13 +5,15 @@ This layout is based on US QWERTY, and has borrowed some aspects from EurKEY and
 
 This release (and repository) only contains the main keyboard layout of UltimateKEYS.
 
-The additional customized Compose Key sequences (Multi_key) have not been included in this release/repository, since these may change more frequently over time.
+The additional customized Compose Key sequences (Multi_key) have not been included in this release/repository, since these may change more frequently over time. That way, only the pre-defined Compose Key sequences on the installation are applicable.
+
+**Also note that the MSKLC version (for Windows) does not have the Compose Key, since MSKLC does not support multiple keystrokes as a sequence for a dead key.**
 
 ## Keyboard Layout Image
 
 ![UltimateKEYS - Keyboard Layout Image](images/UltimateKEYS%20-%20Keyboard%20Layout%20Image.png)
 
-=&gt; CP key (blue) : &nbsp;Compose Key (Multi_key), in combination with AltGr (Right Alt).  
+=&gt; CP key (blue) : &nbsp;Compose Key (Multi_key), in combination with AltGr (Right Alt) (only with AutoHotkey and Linux).  
 =&gt; Note that the ISO key (next to Left Shift) is not present on standard ANSI keyboards.
 
 ## Important Notice - Security
