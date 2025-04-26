@@ -3,6 +3,8 @@
 **International US QWERTY layout with AltGr (Right Alt) dead keys (Compose Key).**  
 This layout is based on US QWERTY, and has borrowed some aspects from EurKEY and US-International.
 
+**UltimateKEYS Core&nbsp;:**&emsp;[![UltimateKEYS Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-core.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-core/releases)
+
 This release (and repository) only contains the main keyboard layout of UltimateKEYS.
 
 The additional customized Compose Key sequences (Multi_key) have not been included, since these may change more frequently over time. That way, only pre-defined Compose Key sequences on the Linux installation are applicable (plus user-defined sequences).
