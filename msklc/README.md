@@ -8,4 +8,4 @@ The installer can be found in the releases&nbsp;:&emsp;[![Core Release](https://
 
 ## Keyboard Layout Image
 
-![UltimateKEYS (MSKLC) - Keyboard Layout Image](UltimateKEYS%20(MSKLC)%20-%20Keyboard%20Layout%20Image.png)
+![UltimateKEYS (MSKLC) - Keyboard Layout Image](/images/UltimateKEYS%20(MSKLC)%20-%20Keyboard%20Layout%20Image.png)
